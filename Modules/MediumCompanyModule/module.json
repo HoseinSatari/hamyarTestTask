@@ -1,0 +1,11 @@
+{
+    "name": "MediumCompanyModule",
+    "alias": "mediumcompanymodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MediumCompanyModule\\App\\Providers\\MediumCompanyModuleServiceProvider"
+    ],
+    "files": []
+}
